@@ -1,0 +1,5 @@
+.idea/*
+__pycache__/*
+pics/*
+pics
+png_to_base64.py
